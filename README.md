@@ -1,35 +1,38 @@
 <h1 align="center">Hi 👋, I'm B S Manan</h1>
-<h3 align="center">Aspiring MERN Developer & Web Developer (B.E CSE)</h3>
+<h3 align="center">Aspiring MERN Stack Developer & Software Engineer</h3>
 
 ---
 
 ## 🚀 About Me
-I'm an aspiring **MERN Stack Developer & Software engineer** who enjoys building clean, responsive, and user-friendly web applications using **React, JavaScript**, and modern tools.
+I'm an enthusiastic **MERN Stack Developer & Software Engineer ** who enjoys building clean, responsive, and user-friendly web applications using **React, Node.js, Express**, and **MongoDB**.  
+I have a strong foundation in **Java, Python, C/C++, SQL, OOP, DSA**, and hands-on experience computer vision, and full-stack development.
 
-- 🔭 Currently working on: **Frontend & basic full-stack projects**
-- 🌱 Learning: **React, Firebase, Java + MySQL**
-- 💡 I like: **Turning ideas into working projects**
-- 🎯 Career Goal: Become a **Web Developer / Software Engineer** and grow through real-world projects
+- 🔭 Currently working on: **MERN full-stack projects**  
+- 🌱 Learning: **React, Firebase, Node.js, Express, MongoDB**  
+- 💡 I enjoy turning ideas into real, functional applications  
+- 🎯 Career Goal: Join a team as a **Web Developer / Software Engineer** and grow through real-world projects  
 
 ---
 
 ## 🧰 Tech Stack
 
+### **Programming Languages**
+Java • Python • C • C++ • SQL 
+
 ### **Frontend**
-- HTML, CSS  
-- JavaScript (ES6)  
-- React (Vite)  
-- Responsive UI Development  
+HTML • CSS • JavaScript (ES6) • React.js • Responsive Design
 
-### **Backend & Databases**
-- Node,Express  
-- MySQL, MangoDB  
-- Firebase (Authentication & Firestore - basic)
+### **Backend**
+Node.js • Express.js
 
-### **Tools**
-- VS Code  
-- Git & GitHub  
-- Chrome DevTools  
+### **Databases**
+MySQL • MongoDB
+
+### **Tools & Platforms**
+Git • GitHub • VS Code • AWS • Chrome DevTools
+
+### **Core Competencies**
+OOP • DSA • SDLC • Problem Solving • Communication • Teamwork
 
 ---
 
@@ -37,16 +40,17 @@ I'm an aspiring **MERN Stack Developer & Software engineer** who enjoys building
 
 | Project | Description | GitHub | Live Demo |
 |--------|-------------|--------|-----------|
-| **Multiple Heart Disease Prediction** | Predictive ML model that analyzes patient health data using Pandas, NumPy, Scikit-learn, and TensorFlow/Keras. Includes data preprocessing, visualization (Matplotlib/Seaborn), and a web UI for user inputs. | — | — |
-| **Hand Controlled Media Player** | Gesture-based media control interface built using OpenCV and MediaPipe. Enables play, pause, and volume control through real-time hand tracking, optimized for smooth human-computer interaction. | — | — |
-| **CrowdFund Platform** | Modern crowdfunding platform with Firebase Authentication, Realtime Database, Storage, and Redux for global state management. Supports campaign creation, media uploads, and real-time progress tracking. | — | — |
+| **Multiple Heart Disease Prediction** | Machine learning-based heart disease prediction system using Pandas, NumPy, Scikit-learn, TensorFlow/Keras, with a web UI and data visualizations. | [Repository] (https://github.com/manubarikar/Multiple-Heart-Disease-Prediction) | — |
+| **Hand Controlled Media Player** | Gesture-based media control interface using OpenCV + MediaPipe for play, pause, and volume control with real-time hand tracking. | [Repository] (https://github.com/manubarikar/Hand-Controlled-Media-Player) | — |
+| **CrowdFund Platform** | Real-time crowdfunding platform built with React, Firebase, Redux, featuring campaign creation, authentication, and donation tracking. | [Repository] (https://github.com/manubarikar/funding_app) | — |
+
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 **Email:** manubarikar@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/b-s-manan/  
+- 🔗 **LinkedIn:** https://linkedin.com/in/b-s-manan  
 - 🐙 **GitHub:** https://github.com/manubarikar  
 
 ---
