@@ -41,7 +41,7 @@ OOP • DSA • SDLC • Problem Solving • Communication • Teamwork
 | Project | Description | GitHub | Live Demo |
 |--------|-------------|--------|-----------|
 | **Multiple Heart Disease Prediction** | Machine learning-based heart disease prediction system using Pandas, NumPy, Scikit-learn, TensorFlow/Keras, with a web UI and data visualizations. | [Repository](https://github.com/manubarikar/Multiple-Heart-Disease-Prediction) | — |
-| **Hand Controlled Media Player** | Gesture-based media control interface using OpenCV + MediaPipe for play, pause, and volume control with real-time hand tracking. | [Repository]("https://github.com/manubarikar/Hand-Controlled-Media-Player") | — |
+| **Hand Controlled Media Player** | Gesture-based media control interface using OpenCV + MediaPipe for play, pause, and volume control with real-time hand tracking. |[Repository](https://github.com/manubarikar/Hand-Controlled-Media-Player) | — |
 | **CrowdFund Platform** | Real-time crowdfunding platform built with React, Firebase, Redux, featuring campaign creation, authentication, and donation tracking. | [Repository](https://github.com/manubarikar/funding_app) | — |
 
 
