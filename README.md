@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manan Barikar</h1>
+<h1 align="center">Hi 👋, I'm B S Manan</h1>
 <h3 align="center">Aspiring MERN Developer & Web Developer (B.E CSE)</h3>
 
 ---
