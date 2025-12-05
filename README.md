@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I'm an enthusiastic **MERN Stack Developer & Software Engineer ** who enjoys building clean, responsive, and user-friendly web applications using **React, Node.js, Express**, and **MongoDB**.  
+I'm an enthusiastic **MERN Stack Developer & Software Engineer** who enjoys building clean, responsive, and user-friendly web applications using **React, Node.js, Express**, and **MongoDB**.  
 I have a strong foundation in **Java, Python, C/C++, SQL, OOP, DSA**, and hands-on experience computer vision, and full-stack development.
 
 - 🔭 Currently working on: **MERN full-stack projects**  
